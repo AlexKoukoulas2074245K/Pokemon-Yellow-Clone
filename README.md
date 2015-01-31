@@ -1,10 +1,10 @@
 # Pokemon-Yellow-Clone
-An old project of mine. Discontinued and approach with caution: very bad code
-It works up until MT. MOON pretty much ok.
+An old project of mine. Discontinued and approach with caution: very bad code <br>
+It works up until MT. MOON pretty much ok. <br>
 
-/ ****** Controls *********/
-Movement      : arrow keys
-Button a      : A
-Button b      : D
-Button Start  : Enter
-Button Select : Backspace(not really used)
+/ ****** Controls *********/ <br>
+Movement      : arrow keys <br>
+Button a      : A <br>
+Button b      : D <br>
+Button Start  : Enter <br>
+Button Select : Backspace(not really used) <br>
