@@ -1,0 +1,15 @@
+POKE_BALL    1 false BALL 200 100
+GREAT_BALL   1 false BALL 600 300
+POTION       2 false 20HP 300 150
+SUPER_POTION 2 false 50HP 700 350
+AWAKENING    2 false SLPH 250 125
+MOON_STONE   0 false  #    0   0
+ANTIDOTE     2 false PSNH 100 50
+BURN_HEAL    2 false BRNH 250 125
+PARLYZ_HEAL  2 false PARH 200 100
+ESCAPE_ROPE  0 false #    550 225
+REPEL        0 false #    350 175
+NUGGET      -1 false #    0   4900
+FOSSIL      -1 true  #    0   0
+OLD_AMBER   -1 true  #    0   0 
+BOULDERBADGE -1 true BADGE 0  0
