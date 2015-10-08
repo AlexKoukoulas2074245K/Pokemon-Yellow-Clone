@@ -1,6 +1,5 @@
 # Pokemon-Yellow-Clone
-An old project of mine. Discontinued and approach with caution: very bad code <br>
-It works up until MT. MOON pretty much ok. <br>
+An old project of mine. Discontinued .
 
 / ****** Controls *********/ <br>
 Movement      : arrow keys <br>
